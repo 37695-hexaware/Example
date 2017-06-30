@@ -1,0 +1,6 @@
+Welcome to program
+a
+12
+22
+
+22
