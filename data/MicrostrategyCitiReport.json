@@ -1,0 +1,2327 @@
+{
+    "id": "EA8836BF451BF05F9B9A08A9D2EB44C2",
+    "name": "balancesheet__citi.xlsx",
+    "instanceId": "03B77FCE43501E99E7BB4894C9AFCBD9",
+    "result": {
+        "definition": {
+            "thresholds": [],
+            "metrics": [
+                {
+                    "name": "financial balance sheet.cash and cash equivalents",
+                    "id": "FDD5B9224F781BC6D0F00B9CACA82926",
+                    "type": "Metric",
+                    "min": 27,
+                    "max": 24542,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "Row Count - balancesheet__citi.xlsx",
+                    "id": "EB289CA94E51C36C6EB463889102B936",
+                    "type": "Metric",
+                    "min": 1,
+                    "max": 1,
+                    "numberFormatting": {
+                        "category": 0,
+                        "decimalPlaces": 0,
+                        "formatString": "#,##0;(#,##0)"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.total liabilities and stockholders equity",
+                    "id": "F029CA6F421B048381F634880E6AA115",
+                    "type": "Metric",
+                    "min": 19657,
+                    "max": 188002,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.total stockholders equity",
+                    "id": "BDC3B728444873A979003CB803F69156",
+                    "type": "Metric",
+                    "min": 1742,
+                    "max": 82190,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.total current liabilities",
+                    "id": "06CA07C54D8C76C88DB6D7A3BF929841",
+                    "type": "Metric",
+                    "min": 5897,
+                    "max": 29399,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.total cash",
+                    "id": "7AE71D934334FE10273F36800A3B3743",
+                    "type": "Metric",
+                    "min": 654,
+                    "max": 38376,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.accrued liabilities",
+                    "id": "BE2A315A4354B597BC649EB3E6D4BF89",
+                    "type": "Metric",
+                    "min": 1043,
+                    "max": 13787,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.short term debt",
+                    "id": "82500AAA45DB6D5D0266A9948120ECDC",
+                    "type": "Metric",
+                    "min": 0,
+                    "max": 10160,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.intangible assets",
+                    "id": "AE02C7064EC8F6B8B1CB56B86951DAB6",
+                    "type": "Metric",
+                    "min": 1419,
+                    "max": 53833,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.inventories",
+                    "id": "3C7870B74185274373E47488D9305012",
+                    "type": "Metric",
+                    "min": 872,
+                    "max": 8184,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.other long term liabilities",
+                    "id": "5C5DA39D44BC11C5B2B7878EC4571478",
+                    "type": "Metric",
+                    "min": 0,
+                    "max": 77743,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                },
+                {
+                    "name": "financial balance sheet.receivables",
+                    "id": "3B7C4E5E46FDD874951620ADDD7F00AB",
+                    "type": "Metric",
+                    "min": 1690,
+                    "max": 13608,
+                    "numberFormatting": {
+                        "category": 9,
+                        "formatString": "General"
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "financial balance sheet.year",
+                    "id": "19854840427AD3D217ABB296502C75E7",
+                    "type": "Attribute"
+                },
+                {
+                    "name": "financial balance sheet.securities",
+                    "id": "AE1CA0614EFC1B7294E5A699BF85888D",
+                    "type": "Attribute"
+                }
+            ]
+        },
+        "data": {
+            "paging": {
+                "total": 30,
+                "current": 30,
+                "offset": 0,
+                "limit": 1000,
+                "prev": null,
+                "next": null
+            },
+            "root": {
+                "isPartial": false,
+                "children": [
+                    {
+                        "depth": 0,
+                        "element": {
+                            "attributeIndex": 0,
+                            "name": "2011-12",
+                            "id": "h2011-12;19854840427AD3D217ABB296502C75E7"
+                        },
+                        "isPartial": false,
+                        "children": [
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABBV",
+                                    "id": "hABBV;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 27,
+                                        "fv": "27",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 19657,
+                                        "fv": "19657",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 12224,
+                                        "fv": "12224",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 5897,
+                                        "fv": "5897",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 654,
+                                        "fv": "654",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 5480,
+                                        "fv": "5480",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 0,
+                                        "fv": "0",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 2910,
+                                        "fv": "2910",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 872,
+                                        "fv": "872",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 1537,
+                                        "fv": "1537",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3817,
+                                        "fv": "3817",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABT",
+                                    "id": "hABT;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 6813,
+                                        "fv": "6813",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 60277,
+                                        "fv": "60277",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 24440,
+                                        "fv": "24440",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 15480,
+                                        "fv": "15480",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 8097,
+                                        "fv": "8097",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 9115,
+                                        "fv": "9115",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 3375,
+                                        "fv": "3375",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 9990,
+                                        "fv": "9990",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 3284,
+                                        "fv": "3284",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 0,
+                                        "fv": "0",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 7684,
+                                        "fv": "7684",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "BMY",
+                                    "id": "hBMY;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 5776,
+                                        "fv": "5776",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 32970,
+                                        "fv": "32970",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 15956,
+                                        "fv": "15956",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 7780,
+                                        "fv": "7780",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 8733,
+                                        "fv": "8733",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 3052,
+                                        "fv": "3052",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 115,
+                                        "fv": "115",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 3124,
+                                        "fv": "3124",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1384,
+                                        "fv": "1384",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 1064,
+                                        "fv": "1064",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 2250,
+                                        "fv": "2250",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "JNJ",
+                                    "id": "hJNJ;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 24542,
+                                        "fv": "24542",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 113644,
+                                        "fv": "113644",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 57080,
+                                        "fv": "57080",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 22811,
+                                        "fv": "22811",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 32261,
+                                        "fv": "32261",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 9574,
+                                        "fv": "9574",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 6658,
+                                        "fv": "6658",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 18138,
+                                        "fv": "18138",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 6285,
+                                        "fv": "6285",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 18984,
+                                        "fv": "18984",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 10581,
+                                        "fv": "10581",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "MRK",
+                                    "id": "hMRK;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 13531,
+                                        "fv": "13531",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 105128,
+                                        "fv": "105128",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 54517,
+                                        "fv": "54517",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 16245,
+                                        "fv": "16245",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 14972,
+                                        "fv": "14972",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 9731,
+                                        "fv": "9731",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 1990,
+                                        "fv": "1990",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 34302,
+                                        "fv": "34302",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 6254,
+                                        "fv": "6254",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 0,
+                                        "fv": "0",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 8261,
+                                        "fv": "8261",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "PFE",
+                                    "id": "hPFE;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 3539,
+                                        "fv": "3539",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 188002,
+                                        "fv": "188002",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 82190,
+                                        "fv": "82190",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 28069,
+                                        "fv": "28069",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 26758,
+                                        "fv": "26758",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 2169,
+                                        "fv": "2169",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4018,
+                                        "fv": "4018",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 53833,
+                                        "fv": "53833",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 7769,
+                                        "fv": "7769",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 77743,
+                                        "fv": "77743",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 13608,
+                                        "fv": "13608",
+                                        "mi": 11
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "depth": 0,
+                        "element": {
+                            "attributeIndex": 0,
+                            "name": "2012-12",
+                            "id": "h2012-12;19854840427AD3D217ABB296502C75E7"
+                        },
+                        "isPartial": false,
+                        "children": [
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABBV",
+                                    "id": "hABBV;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 5901,
+                                        "fv": "5901",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 27008,
+                                        "fv": "27008",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 3363,
+                                        "fv": "3363",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 6776,
+                                        "fv": "6776",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 7976,
+                                        "fv": "7976",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 2639,
+                                        "fv": "2639",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 1020,
+                                        "fv": "1020",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 2323,
+                                        "fv": "2323",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1091,
+                                        "fv": "1091",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 16869,
+                                        "fv": "16869",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3602,
+                                        "fv": "3602",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABT",
+                                    "id": "hABT;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 10802,
+                                        "fv": "10802",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 67235,
+                                        "fv": "67235",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 26721,
+                                        "fv": "26721",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 13280,
+                                        "fv": "13280",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 15174,
+                                        "fv": "15174",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 8216,
+                                        "fv": "8216",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 2391,
+                                        "fv": "2391",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 8588,
+                                        "fv": "8588",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 3792,
+                                        "fv": "3792",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 0,
+                                        "fv": "0",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 7613,
+                                        "fv": "7613",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "BMY",
+                                    "id": "hBMY;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 1656,
+                                        "fv": "1656",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 35897,
+                                        "fv": "35897",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 13623,
+                                        "fv": "13623",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 8279,
+                                        "fv": "8279",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 2829,
+                                        "fv": "2829",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 3627,
+                                        "fv": "3627",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 826,
+                                        "fv": "826",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 8778,
+                                        "fv": "8778",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1657,
+                                        "fv": "1657",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 5147,
+                                        "fv": "5147",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3083,
+                                        "fv": "3083",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "JNJ",
+                                    "id": "hJNJ;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 14911,
+                                        "fv": "14911",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 121347,
+                                        "fv": "121347",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 64826,
+                                        "fv": "64826",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 24262,
+                                        "fv": "24262",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 21089,
+                                        "fv": "21089",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 12691,
+                                        "fv": "12691",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4676,
+                                        "fv": "4676",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 28752,
+                                        "fv": "28752",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 7495,
+                                        "fv": "7495",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 17634,
+                                        "fv": "17634",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 11309,
+                                        "fv": "11309",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "MRK",
+                                    "id": "hMRK;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 13451,
+                                        "fv": "13451",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 106132,
+                                        "fv": "106132",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 53020,
+                                        "fv": "53020",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 18348,
+                                        "fv": "18348",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 16141,
+                                        "fv": "16141",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 9737,
+                                        "fv": "9737",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4315,
+                                        "fv": "4315",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 29083,
+                                        "fv": "29083",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 6535,
+                                        "fv": "6535",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 0,
+                                        "fv": "0",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 7672,
+                                        "fv": "7672",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "PFE",
+                                    "id": "hPFE;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 10389,
+                                        "fv": "10389",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 185798,
+                                        "fv": "185798",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 81260,
+                                        "fv": "81260",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 28619,
+                                        "fv": "28619",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 32708,
+                                        "fv": "32708",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 2046,
+                                        "fv": "2046",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 6424,
+                                        "fv": "6424",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 46013,
+                                        "fv": "46013",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 7063,
+                                        "fv": "7063",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 75919,
+                                        "fv": "75919",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 12378,
+                                        "fv": "12378",
+                                        "mi": 11
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "depth": 0,
+                        "element": {
+                            "attributeIndex": 0,
+                            "name": "2013-12",
+                            "id": "h2013-12;19854840427AD3D217ABB296502C75E7"
+                        },
+                        "isPartial": false,
+                        "children": [
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABBV",
+                                    "id": "hABBV;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 9595,
+                                        "fv": "9595",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 29198,
+                                        "fv": "29198",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 4492,
+                                        "fv": "4492",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 6879,
+                                        "fv": "6879",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 9895,
+                                        "fv": "9895",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 1064,
+                                        "fv": "1064",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 413,
+                                        "fv": "413",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 1890,
+                                        "fv": "1890",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1150,
+                                        "fv": "1150",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 17257,
+                                        "fv": "17257",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 4803,
+                                        "fv": "4803",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABT",
+                                    "id": "hABT;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 3475,
+                                        "fv": "3475",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 42953,
+                                        "fv": "42953",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 25171,
+                                        "fv": "25171",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 9507,
+                                        "fv": "9507",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 8098,
+                                        "fv": "8098",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 4406,
+                                        "fv": "4406",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 3173,
+                                        "fv": "3173",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 5735,
+                                        "fv": "5735",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 2693,
+                                        "fv": "2693",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 2507,
+                                        "fv": "2507",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3986,
+                                        "fv": "3986",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "BMY",
+                                    "id": "hBMY;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 3586,
+                                        "fv": "3586",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 38592,
+                                        "fv": "38592",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 15154,
+                                        "fv": "15154",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 12440,
+                                        "fv": "12440",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 4525,
+                                        "fv": "4525",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 3041,
+                                        "fv": "3041",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 359,
+                                        "fv": "359",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 2318,
+                                        "fv": "2318",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1498,
+                                        "fv": "1498",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 1375,
+                                        "fv": "1375",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 1690,
+                                        "fv": "1690",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "JNJ",
+                                    "id": "hJNJ;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 20927,
+                                        "fv": "20927",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 132683,
+                                        "fv": "132683",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 74053,
+                                        "fv": "74053",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 25675,
+                                        "fv": "25675",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 29206,
+                                        "fv": "29206",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 13787,
+                                        "fv": "13787",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4852,
+                                        "fv": "4852",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 27947,
+                                        "fv": "27947",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 7878,
+                                        "fv": "7878",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 15638,
+                                        "fv": "15638",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 11713,
+                                        "fv": "11713",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "MRK",
+                                    "id": "hMRK;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 15621,
+                                        "fv": "15621",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 105645,
+                                        "fv": "105645",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 49765,
+                                        "fv": "49765",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 17868,
+                                        "fv": "17868",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 17486,
+                                        "fv": "17486",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 9501,
+                                        "fv": "9501",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4521,
+                                        "fv": "4521",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 23801,
+                                        "fv": "23801",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 6226,
+                                        "fv": "6226",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 8136,
+                                        "fv": "8136",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 7184,
+                                        "fv": "7184",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "PFE",
+                                    "id": "hPFE;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 2183,
+                                        "fv": "2183",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 172101,
+                                        "fv": "172101",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 76307,
+                                        "fv": "76307",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 23366,
+                                        "fv": "23366",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 32408,
+                                        "fv": "32408",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 1792,
+                                        "fv": "1792",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 6027,
+                                        "fv": "6027",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 39385,
+                                        "fv": "39385",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 6166,
+                                        "fv": "6166",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 72428,
+                                        "fv": "72428",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 9357,
+                                        "fv": "9357",
+                                        "mi": 11
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "depth": 0,
+                        "element": {
+                            "attributeIndex": 0,
+                            "name": "2014-12",
+                            "id": "h2014-12;19854840427AD3D217ABB296502C75E7"
+                        },
+                        "isPartial": false,
+                        "children": [
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABBV",
+                                    "id": "hABBV;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 8348,
+                                        "fv": "8348",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 27547,
+                                        "fv": "27547",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 1742,
+                                        "fv": "1742",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 11400,
+                                        "fv": "11400",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 8374,
+                                        "fv": "8374",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 4746,
+                                        "fv": "4746",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 425,
+                                        "fv": "425",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 1513,
+                                        "fv": "1513",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1124,
+                                        "fv": "1124",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 11555,
+                                        "fv": "11555",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 4291,
+                                        "fv": "4291",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABT",
+                                    "id": "hABT;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 4063,
+                                        "fv": "4063",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 41275,
+                                        "fv": "41275",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 21526,
+                                        "fv": "21526",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 10532,
+                                        "fv": "10532",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 4460,
+                                        "fv": "4460",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 3719,
+                                        "fv": "3719",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 4437,
+                                        "fv": "4437",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 6198,
+                                        "fv": "6198",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 2643,
+                                        "fv": "2643",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 108,
+                                        "fv": "108",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3586,
+                                        "fv": "3586",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "BMY",
+                                    "id": "hBMY;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 5571,
+                                        "fv": "5571",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 33749,
+                                        "fv": "33749",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 14852,
+                                        "fv": "14852",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 8461,
+                                        "fv": "8461",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 7435,
+                                        "fv": "7435",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 3310,
+                                        "fv": "3310",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 590,
+                                        "fv": "590",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 1753,
+                                        "fv": "1753",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1560,
+                                        "fv": "1560",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 1178,
+                                        "fv": "1178",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 2100,
+                                        "fv": "2100",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "JNJ",
+                                    "id": "hJNJ;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 14523,
+                                        "fv": "14523",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 131119,
+                                        "fv": "131119",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 69752,
+                                        "fv": "69752",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 25085,
+                                        "fv": "25085",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 33089,
+                                        "fv": "33089",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 13314,
+                                        "fv": "13314",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 3638,
+                                        "fv": "3638",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 27222,
+                                        "fv": "27222",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 8184,
+                                        "fv": "8184",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 18006,
+                                        "fv": "18006",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 10985,
+                                        "fv": "10985",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "MRK",
+                                    "id": "hMRK;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 7441,
+                                        "fv": "7441",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 98335,
+                                        "fv": "98335",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 48647,
+                                        "fv": "48647",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 18766,
+                                        "fv": "18766",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 15719,
+                                        "fv": "15719",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 10523,
+                                        "fv": "10523",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 2704,
+                                        "fv": "2704",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 20386,
+                                        "fv": "20386",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 5571,
+                                        "fv": "5571",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 7813,
+                                        "fv": "7813",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 6626,
+                                        "fv": "6626",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "PFE",
+                                    "id": "hPFE;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 3343,
+                                        "fv": "3343",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 169274,
+                                        "fv": "169274",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 71301,
+                                        "fv": "71301",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 21631,
+                                        "fv": "21631",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 36122,
+                                        "fv": "36122",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 1784,
+                                        "fv": "1784",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 5141,
+                                        "fv": "5141",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 35166,
+                                        "fv": "35166",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 5663,
+                                        "fv": "5663",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 76342,
+                                        "fv": "76342",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 8669,
+                                        "fv": "8669",
+                                        "mi": 11
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "depth": 0,
+                        "element": {
+                            "attributeIndex": 0,
+                            "name": "2015-12",
+                            "id": "h2015-12;19854840427AD3D217ABB296502C75E7"
+                        },
+                        "isPartial": false,
+                        "children": [
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABBV",
+                                    "id": "hABBV;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 8399,
+                                        "fv": "8399",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 53050,
+                                        "fv": "53050",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 3945,
+                                        "fv": "3945",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 10894,
+                                        "fv": "10894",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 8407,
+                                        "fv": "8407",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 1043,
+                                        "fv": "1043",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 406,
+                                        "fv": "406",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 19709,
+                                        "fv": "19709",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1719,
+                                        "fv": "1719",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 30986,
+                                        "fv": "30986",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 4730,
+                                        "fv": "4730",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "ABT",
+                                    "id": "hABT;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 5001,
+                                        "fv": "5001",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 41247,
+                                        "fv": "41247",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 21211,
+                                        "fv": "21211",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 9186,
+                                        "fv": "9186",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 6125,
+                                        "fv": "6125",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 5604,
+                                        "fv": "5604",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 3130,
+                                        "fv": "3130",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 5562,
+                                        "fv": "5562",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 2599,
+                                        "fv": "2599",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 2623,
+                                        "fv": "2623",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 3418,
+                                        "fv": "3418",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "BMY",
+                                    "id": "hBMY;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 2385,
+                                        "fv": "2385",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 31748,
+                                        "fv": "31748",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 14266,
+                                        "fv": "14266",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 8017,
+                                        "fv": "8017",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 4270,
+                                        "fv": "4270",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 4083,
+                                        "fv": "4083",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 139,
+                                        "fv": "139",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 1419,
+                                        "fv": "1419",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 1221,
+                                        "fv": "1221",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 1222,
+                                        "fv": "1222",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 2948,
+                                        "fv": "2948",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "JNJ",
+                                    "id": "hJNJ;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 13732,
+                                        "fv": "13732",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 133411,
+                                        "fv": "133411",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 71150,
+                                        "fv": "71150",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 27747,
+                                        "fv": "27747",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 38376,
+                                        "fv": "38376",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 13325,
+                                        "fv": "13325",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 7004,
+                                        "fv": "7004",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 25764,
+                                        "fv": "25764",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 8053,
+                                        "fv": "8053",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 19095,
+                                        "fv": "19095",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 10734,
+                                        "fv": "10734",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "MRK",
+                                    "id": "hMRK;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 8524,
+                                        "fv": "8524",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 101779,
+                                        "fv": "101779",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 44676,
+                                        "fv": "44676",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 19203,
+                                        "fv": "19203",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 13427,
+                                        "fv": "13427",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 11216,
+                                        "fv": "11216",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 2585,
+                                        "fv": "2585",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 22602,
+                                        "fv": "22602",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 4700,
+                                        "fv": "4700",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 7345,
+                                        "fv": "7345",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 6484,
+                                        "fv": "6484",
+                                        "mi": 11
+                                    }
+                                }
+                            },
+                            {
+                                "depth": 1,
+                                "element": {
+                                    "attributeIndex": 1,
+                                    "name": "PFE",
+                                    "id": "hPFE;AE1CA0614EFC1B7294E5A699BF85888D"
+                                },
+                                "metrics": {
+                                    "financial balance sheet.cash and cash equivalents": {
+                                        "rv": 3641,
+                                        "fv": "3641",
+                                        "mi": 0
+                                    },
+                                    "Row Count - balancesheet__citi.xlsx": {
+                                        "rv": 1,
+                                        "fv": "1",
+                                        "mi": 1
+                                    },
+                                    "financial balance sheet.total liabilities and stockholders equity": {
+                                        "rv": 167460,
+                                        "fv": "167460",
+                                        "mi": 2
+                                    },
+                                    "financial balance sheet.total stockholders equity": {
+                                        "rv": 64720,
+                                        "fv": "64720",
+                                        "mi": 3
+                                    },
+                                    "financial balance sheet.total current liabilities": {
+                                        "rv": 29399,
+                                        "fv": "29399",
+                                        "mi": 4
+                                    },
+                                    "financial balance sheet.total cash": {
+                                        "rv": 23290,
+                                        "fv": "23290",
+                                        "mi": 5
+                                    },
+                                    "financial balance sheet.accrued liabilities": {
+                                        "rv": 2359,
+                                        "fv": "2359",
+                                        "mi": 6
+                                    },
+                                    "financial balance sheet.short term debt": {
+                                        "rv": 10160,
+                                        "fv": "10160",
+                                        "mi": 7
+                                    },
+                                    "financial balance sheet.intangible assets": {
+                                        "rv": 40358,
+                                        "fv": "40358",
+                                        "mi": 8
+                                    },
+                                    "financial balance sheet.inventories": {
+                                        "rv": 7513,
+                                        "fv": "7513",
+                                        "mi": 9
+                                    },
+                                    "financial balance sheet.other long term liabilities": {
+                                        "rv": 73341,
+                                        "fv": "73341",
+                                        "mi": 10
+                                    },
+                                    "financial balance sheet.receivables": {
+                                        "rv": 8176,
+                                        "fv": "8176",
+                                        "mi": 11
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
